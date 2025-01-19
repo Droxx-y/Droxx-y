@@ -11,6 +11,6 @@ I also enjoy creating tools for said operating systems to make my life easier ad
 * 💻 HTML, CSS
 * 👤 Help desk (managing users & computers in AD (group policies, OU-s), SCCM, using ticketing software to find and resolve problems while also providing clear resolution details)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Droxx-y&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Droxx-y&show_icons=true&theme=tokyonight)
